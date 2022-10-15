@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Applications
+## About Application
 
 It is a website which connects doctors, patients, and services like appointment scheduling.
 The patient can choose a date and doctor to consult, the system will automatically generate appointment time based on the doctor's schedule. The patient can also view his current and past appointments and appointment book.
